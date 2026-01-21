@@ -5,6 +5,12 @@
 [submodule "corrselect"]
 	path = corrselect
 	url = https://github.com/gcol33/corrselect
+[submodule "couplr"]
+	path = couplr
+	url = https://github.com/gcol33/couplr
 [submodule "ggguides"]
 	path = ggguides
 	url = https://github.com/gcol33/ggguides
+[submodule "hexify"]
+	path = hexify
+	url = https://github.com/gcol33/hexify
