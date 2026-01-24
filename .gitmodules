@@ -14,3 +14,6 @@
 [submodule "hexify"]
 	path = hexify
 	url = https://github.com/gcol33/hexify
+[submodule "joinspy"]
+	path = joinspy
+	url = https://github.com/gcol33/joinspy
