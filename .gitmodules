@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "areaOfEffect"]
+	path = areaOfEffect
+	url = https://github.com/gcol33/areaofeffect
 [submodule "corrselect"]
 	path = corrselect
 	url = https://github.com/gcol33/corrselect
@@ -17,3 +20,6 @@
 [submodule "joinspy"]
 	path = joinspy
 	url = https://github.com/gcol33/joinspy
+[submodule "keyed"]
+	path = keyed
+	url = https://github.com/gcol33/keyed
