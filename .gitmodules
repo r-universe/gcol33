@@ -23,3 +23,6 @@
 [submodule "keyed"]
 	path = keyed
 	url = https://github.com/gcol33/keyed
+[submodule "restrictR"]
+	path = restrictR
+	url = https://github.com/gcol33/restrictr
