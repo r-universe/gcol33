@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BORG"]
+	path = BORG
+	url = https://github.com/gcol33/borg
 [submodule "areaOfEffect"]
 	path = areaOfEffect
 	url = https://github.com/gcol33/areaofeffect
