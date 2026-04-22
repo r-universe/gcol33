@@ -32,3 +32,6 @@
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/gcol33/tulpamesh
+[submodule "vectra"]
+	path = vectra
+	url = https://github.com/gcol33/vectra
