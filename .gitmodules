@@ -29,6 +29,9 @@
 [submodule "restrictR"]
 	path = restrictR
 	url = https://github.com/gcol33/restrictr
+[submodule "texanshootR"]
+	path = texanshootR
+	url = https://github.com/gcol33/texanshootr
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/gcol33/tulpamesh
