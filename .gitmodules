@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/gcol33/gcol33.r-universe.dev
 	branch = HEAD
 [submodule "BORG"]
 	path = BORG
@@ -29,6 +29,9 @@
 [submodule "restrictR"]
 	path = restrictR
 	url = https://github.com/gcol33/restrictr
+[submodule "taxifydb"]
+	path = taxifydb
+	url = https://github.com/gcol33/taxifydb
 [submodule "texanshootR"]
 	path = texanshootR
 	url = https://github.com/gcol33/texanshootr
