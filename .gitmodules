@@ -35,6 +35,9 @@
 [submodule "texanshootR"]
 	path = texanshootR
 	url = https://github.com/gcol33/texanshootr
+[submodule "topocast"]
+	path = topocast
+	url = https://github.com/gcol33/topocast
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/gcol33/tulpamesh
