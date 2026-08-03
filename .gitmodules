@@ -38,9 +38,18 @@
 [submodule "topocast"]
 	path = topocast
 	url = https://github.com/gcol33/topocast
+[submodule "tulpa"]
+	path = tulpa
+	url = https://github.com/gcol33/tulpa
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/gcol33/tulpamesh
+[submodule "tulpaObs"]
+	path = tulpaObs
+	url = https://github.com/gcol33/tulpaobs
+[submodule "tulpaRatio"]
+	path = tulpaRatio
+	url = https://github.com/gcol33/tulparatio
 [submodule "vectra"]
 	path = vectra
 	url = https://github.com/gcol33/vectra
