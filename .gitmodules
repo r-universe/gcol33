@@ -14,6 +14,9 @@
 [submodule "couplr"]
 	path = couplr
 	url = https://github.com/gcol33/couplr
+[submodule "getaca"]
+	path = getaca
+	url = https://github.com/gcol33/getaca
 [submodule "ggguides"]
 	path = ggguides
 	url = https://github.com/gcol33/ggguides
