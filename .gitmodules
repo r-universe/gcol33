@@ -32,6 +32,9 @@
 [submodule "restrictR"]
 	path = restrictR
 	url = https://github.com/gcol33/restrictr
+[submodule "taxify"]
+	path = taxify
+	url = https://github.com/gcol33/taxify
 [submodule "taxifydb"]
 	path = taxifydb
 	url = https://github.com/gcol33/taxifydb
