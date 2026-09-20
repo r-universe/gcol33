@@ -41,6 +41,9 @@
 [submodule "texanshootR"]
 	path = texanshootR
 	url = https://github.com/gcol33/texanshootr
+[submodule "timesift"]
+	path = timesift
+	url = https://github.com/gcol33/timesift
 [submodule "topocast"]
 	path = topocast
 	url = https://github.com/gcol33/topocast
