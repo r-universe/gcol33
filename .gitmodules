@@ -23,6 +23,9 @@
 [submodule "ggguides"]
 	path = ggguides
 	url = https://github.com/gcol33/ggguides
+[submodule "hexglobe"]
+	path = hexglobe
+	url = https://github.com/gcol33/hexglobe
 [submodule "hexify"]
 	path = hexify
 	url = https://github.com/gcol33/hexify
