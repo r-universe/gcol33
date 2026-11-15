@@ -35,6 +35,9 @@
 [submodule "keyed"]
 	path = keyed
 	url = https://github.com/gcol33/keyed
+[submodule "linop.primme"]
+	path = linop.primme
+	url = https://github.com/gcol33/linop.primme
 [submodule "restrictR"]
 	path = restrictR
 	url = https://github.com/gcol33/restrictr
