@@ -59,6 +59,9 @@
 [submodule "tulpa"]
 	path = tulpa
 	url = https://github.com/gcol33/tulpa
+[submodule "tulpaGPU"]
+	path = tulpaGPU
+	url = https://github.com/gcol33/tulpagpu
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/gcol33/tulpamesh
